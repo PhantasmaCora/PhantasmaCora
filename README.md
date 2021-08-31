@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhantasmaCora
+- 👋 Hi, I’m @PhantasmaCora; Cyan Kupinski at Michigan Technological University
 - 👀 I’m interested in development of games and interactive entertainment programs whose gameness may be debatable
 - 🌱 I’m currently learning Python game development and associated object-oriented structures
 
