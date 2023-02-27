@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PhantasmaCora; Petra Kupinski at Michigan Technological University
+- 👋 Hi, I’m @PhantasmaCora; call me Petra.
 - 👀 I’m interested in development of games and interactive entertainment programs whose gameness may be debatable
-- 🌱 I’m currently learning Python game development and associated object-oriented structures
+- 🌱 I’m currently learning Godot game dev, GLSL shaders, and little bits and pieces of whatever I pick up along the way.
 
 <!---
 PhantasmaCora/PhantasmaCora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
